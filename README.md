@@ -17,4 +17,7 @@
 | §1 递归问题 | [递归问题 热身题答案](https://gyrojeff.top/index.php/archives/concrete-math-recurrent-problems-homework-warmup/) | [Link](https://github.com/JeffersonQin/gyrojeff.top/blob/master/posts/2022/3/具体数学-递归问题-热身题答案.md) |
 | §1 递归问题 | [递归问题 作业题答案](https://gyrojeff.top/index.php/archives/concrete-math-recurrent-problems-homework/) | [Link](https://github.com/JeffersonQin/gyrojeff.top/blob/master/posts/2022/3/具体数学-递归问题-作业题答案.md) |
 | §1 递归问题 | [递归问题 考试题答案](https://gyrojeff.top/index.php/archives/concrete-math-recurrent-problems-exam/) | [Link](https://github.com/JeffersonQin/gyrojeff.top/blob/master/posts/2022/3/具体数学-递归问题-考试题答案.md) |
+| §2 和式 | [和式 旁注](https://gyrojeff.top/index.php/archives/concrete-math-sum-notes/) | [Link](https://github.com/JeffersonQin/gyrojeff.top/blob/master/posts/2022/3/具体数学-和式-旁注.md) |
+| §2.7 无限和式 | [理解无限和式](https://gyrojeff.top/index.php/archives/understand-infinite-sum/) | [Link](https://github.com/JeffersonQin/gyrojeff.top/blob/master/posts/2022/3/理解无限和式.md) |
 | §3.5 底和顶的和式 | [无理数分数分布定理推导](https://gyrojeff.top/index.php/archives/无理数倍数分数部分分布均匀阐释的推理/) | [Link](https://github.com/JeffersonQin/gyrojeff.top/blob/master/posts/2022/3/无理数倍数分数部分分布均匀阐释的推理.md) |
+| §3 整值函数 | [习题 3.22](https://gyrojeff.top/index.php/archives/a-difficult-exercise-of-ceil-and-floor-sum/) | [Link](https://github.com/JeffersonQin/gyrojeff.top/blob/master/posts/2022/3/底和顶和式一道难蚌的习题.md) |
