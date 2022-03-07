@@ -1,3 +1,4 @@
+// Used to evaluate whether a / b * b + a % b == a
 #include <iostream>
 
 using namespace std;
