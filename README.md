@@ -22,3 +22,5 @@
 | §3.5 底和顶的和式 | [无理数分数分布定理推导](https://gyrojeff.top/index.php/archives/无理数倍数分数部分分布均匀阐释的推理/) | [Link](https://github.com/JeffersonQin/gyrojeff.top/blob/master/posts/2022/3/无理数倍数分数部分分布均匀阐释的推理.md) |
 | §3 整值函数 | [习题 3.22](https://gyrojeff.top/index.php/archives/a-difficult-exercise-of-ceil-and-floor-sum/) | [Link](https://github.com/JeffersonQin/gyrojeff.top/blob/master/posts/2022/3/底和顶和式一道难蚌的习题.md) |
 | §4.1 整除性 | [(扩展)欧几里得算法](https://gyrojeff.top/index.php/archives/euclidean-algorithm/) | [Link](https://github.com/JeffersonQin/gyrojeff.top/blob/master/posts/2022/3/欧几里得算法.md) |
+| §4.1 整除性 | [裴蜀定理](https://gyrojeff.top/index.php/archives/裴蜀定理/) | [Link](https://github.com/JeffersonQin/gyrojeff.top/blob/master/posts/2022/3/裴蜀定理.md) |
+| §4.5 互素 | [Stern-Brocot 树性质证明](https://gyrojeff.top/index.php/archives/stern-brocot-tree-properties/) | [Link](https://github.com/JeffersonQin/gyrojeff.top/blob/master/posts/2022/3/Stern-Brocot-Tree-性质的证明.md) |
