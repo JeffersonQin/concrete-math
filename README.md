@@ -30,3 +30,5 @@
 | §4.5 互素 | [互素 旁注](https://gyrojeff.top/index.php/archives/concrete-math-relative-primality-notes/) | [Link](https://github.com/JeffersonQin/gyrojeff.top/blob/master/posts/2022/3/具体数学-互素-旁注.md) |
 | §4.6 同余关系 | [同余关系 旁注](https://gyrojeff.top/index.php/archives/concrete-math-mod-relation-notes/) | [Link](https://github.com/JeffersonQin/gyrojeff.top/blob/master/posts/2022/3/具体数学-同余关系-旁注.md) |
 | §4.7 独立剩余 | [独立剩余 旁注](https://gyrojeff.top/index.php/archives/concrete-math-independent-residue-notes/) | [Link](https://github.com/JeffersonQin/gyrojeff.top/blob/master/posts/2022/3/具体数学-独立剩余-旁注.md) |
+| §4.8 进一步的应用 | [进一步的应用 旁注](https://gyrojeff.top/index.php/archives/concrete-math-number-theory-application-notes/) | [Link](https://github.com/JeffersonQin/gyrojeff.top/blob/master/posts/2022/3/具体数学-数论的进一步应用-旁注.md) |
+| §4.8 进一步的应用 | [威尔逊定理 补充](https://gyrojeff.top/index.php/archives/concrete-math-wilson-theorem/) | [Link](https://github.com/JeffersonQin/gyrojeff.top/blob/master/posts/2022/3/具体数学-威尔逊定理-补充.md) |
