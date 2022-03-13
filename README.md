@@ -35,3 +35,4 @@
 | §4.9 φ函数与μ函数 | [欧拉定理 证明](https://gyrojeff.top/index.php/archives/concrete-math-euler-theorem-proof/) | [Link](https://github.com/JeffersonQin/gyrojeff.top/blob/master/posts/2022/3/具体数学-数论-欧拉定理-证明.md) |
 | §4.9 φ函数与μ函数 | [φ函数 旁注](https://gyrojeff.top/index.php/archives/concrete-math-phi/) | [Link](https://github.com/JeffersonQin/gyrojeff.top/blob/master/posts/2022/3/具体数学-φ函数-旁注.md) |
 | §4.9 φ函数与μ函数 | [μ函数 旁注](https://gyrojeff.top/index.php/archives/concrete-math-mu/) | [Link](https://github.com/JeffersonQin/gyrojeff.top/blob/master/posts/2022/3/具体数学-μ函数-旁注.md) |
+| §4.9 φ函数与μ函数 | [项链问题 旁注](https://gyrojeff.top/index.php/archives/concrete-math-number-theory-necklace-problem/) | [Link](https://github.com/JeffersonQin/gyrojeff.top/blob/master/posts/2022/3/具体数学-数论-项链问题.md) |
