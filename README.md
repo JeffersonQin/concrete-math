@@ -36,3 +36,6 @@
 | §4.9 φ函数与μ函数 | [φ函数 旁注](https://gyrojeff.top/index.php/archives/concrete-math-phi/) | [Link](https://github.com/JeffersonQin/gyrojeff.top/blob/master/posts/2022/3/具体数学-φ函数-旁注.md) |
 | §4.9 φ函数与μ函数 | [μ函数 旁注](https://gyrojeff.top/index.php/archives/concrete-math-mu/) | [Link](https://github.com/JeffersonQin/gyrojeff.top/blob/master/posts/2022/3/具体数学-μ函数-旁注.md) |
 | §4.9 φ函数与μ函数 | [项链问题 旁注](https://gyrojeff.top/index.php/archives/concrete-math-number-theory-necklace-problem/) | [Link](https://github.com/JeffersonQin/gyrojeff.top/blob/master/posts/2022/3/具体数学-数论-项链问题.md) |
+| §4 数论 | [中国剩余定理](https://gyrojeff.top/index.php/archives/中国剩余定理/) | [Link](https://github.com/JeffersonQin/gyrojeff.top/blob/master/posts/2022/3/中国剩余定理.md) |
+| §4 数论 | [数论 热身题答案](https://gyrojeff.top/index.php/archives/concrete-math-number-theory-warmup/) | [Link](https://github.com/JeffersonQin/gyrojeff.top/blob/master/posts/2022/3/具体数学-数论-热身题答案.md) |
+| §4 数论 | [数论 基础题答案](https://gyrojeff.top/index.php/archives/concrete-math-number-theory-basics/) | [Link](https://github.com/JeffersonQin/gyrojeff.top/blob/master/posts/2022/3/具体数学-数论-基础题答案.md) |
